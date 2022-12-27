@@ -7,5 +7,3 @@ Senior Researcher & Research Software Engineer at [Zymvol](https://zymvol.com/).
 I am the main developer of the [LightDock](https://github.com/lightdock) macromolecular docking framework.
 
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianjimenez&count_private=true&show_icons=true)](https://github.com/brianjimenez)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianjimenez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
